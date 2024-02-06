@@ -11,6 +11,10 @@
 ## 🌟 News
 ✨ [2024/02/06] We create this repository to maintain a paper list on LLM-based agents of game playing. More papers are coming soon!
 
+<div align=center><img src="Survey_Diagram.png" width="100%" /></div>
+
+<div align=center><img src="Survey_timeline.png" width="100%" /></div>
+
 ## 2023/12
 - [2023/12/19] Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach. [[paper](https://arxiv.org/abs/2312.11865)]
 - [2023/12/14] Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft. [[paper](https://arxiv.org/pdf/2312.09238.pdf)]
