@@ -8,10 +8,12 @@
 
 🏃 **Coming soon**: Add one-sentence intro to each paper.
 
+<div align=center><img src="Survey_Diagram.png" width="80%" /></div>
+
 ## 🌟 News
 ✨ [2024/02/06] We create this repository to maintain a paper list on LLM-based agents of game playing. More papers are coming soon!
 
-<div align=center><img src="Survey_Diagram.png" width="100%" /></div>
+
 
 <div align=center><img src="Survey_timeline.png" width="100%" /></div>
 
