@@ -11,9 +11,7 @@
 <div align=center><img src="Survey_Diagram.png" width="80%" /></div>
 
 ## 🌟 News
-✨ [2024/02/06] We create this repository to maintain a paper list on LLM-based agents of game playing. More papers are coming soon!
-
-
+✨ [2024/02/06] Creation of this repository to maintain the list of papers on LLM-based agents for game playing. More papers are coming soon!
 
 <div align=center><img src="Survey_timeline.png" width="100%" /></div>
 
@@ -33,7 +31,6 @@
 - [2023/11/14] MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration. [[paper](https://arxiv.org/abs/2311.08562)] [[code](https://github.com/cathyxl/MAgIC)]
 - [2023/11/10] Jarvis-1: Open-World Multi-Task Agents with Memory-Augmented Multimodal Language Models. [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)]
 
-
 ## 2023/10
 - [2023/10/29] Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game. [[paper](https://arxiv.org/abs/2310.18940)]
 - [2023/10/23] Yihuai Lan: LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay. [[paper](https://arxiv.org/abs/2310.14985)]
@@ -51,7 +48,6 @@
 - [2023/10/02] Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation. [[paper](https://arxiv.org/pdf/2310.01320.pdf)]
 - [2023/10/01] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models. [[paper](https://arxiv.org/abs/2310.00746)] [[code](https://github.com/InteractiveNLP-Team/RoleLLM-public)]
 
-
 ## 2023/09
 - [2023/09/29] Suspision-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4. [[paper](https://arxiv.org/pdf/2309.17277.pdf)] [[code](https://github.com/CR-Gjx/Suspicion-Agent)]
 - [2023/09/29] Autoagents: A Framework for Automatic Agent Generation. [[paper](https://arxiv.org/pdf/2309.17288.pdf)] [[code](https://github.com/Link-AGI/AutoAgents)]
@@ -59,7 +55,6 @@
 - [2023/09/18] MindAgent: Emergent Gaming Interaction. [[paper](https://arxiv.org/abs/2309.09971)] [[code](https://github.com/mindagent/mindagent)]
 - [2023/09/14] Agents: An Open-source Framework for Autonomous Language Agents. [[paper](https://arxiv.org/pdf/2309.07870.pdf)] [[code](https://github.com/aiwaves-cn/agents)]
 - [2023/09/09] Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf. [[paper](https://browse.arxiv.org/pdf/2309.04658.pdf)]
-
 
 ## 2023/08
 - [2023/08/23] Are ChatGPT and GPT-4 Good Poker Players?--A Pre-Flop Analysis. [[paper](https://arxiv.org/pdf/2308.12466.pdf)]
@@ -74,7 +69,6 @@
 - [2023/07/12] Sayplan: Grounding Large Language models using 3D Scene Graphs for Scalable Task Planning. [[paper](https://arxiv.org/abs/2307.06135)]
 - [2023/07/05] Building Cooperative Embodied Agents Modularly with Large Language Models. [[paper](https://arxiv.org/pdf/2307.02485.pdf)] [[code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/)]
 - [2023/07/04] TaPA: Embodied Task Planning with Large Language Models. [[paper](https://arxiv.org/pdf/2307.01848.pdf)] [[code](https://github.com/Gary3410/TaPA)]
-
 
 ## 2023/06
 - [2023/06/23] Video pretraining (VPT): Learning to Act by Watching Unlabeled Online Videos. [[paper](https://arxiv.org/pdf/2206.11795.pdf)]
@@ -92,7 +86,6 @@
 - [2023/05/09] Tidybot: Personalized Robot Assistance with Large Language Models. [[paper](https://arxiv.org/pdf/2305.05658.pdf)] [[code](https://github.com/jimmyyhwu/tidybot)]
 - [2023/05/01] ArK: Augmented Reality with Knowledge Interactive Emergent Ability. [[paper](https://arxiv.org/pdf/2305.00970.pdf)]
 
-
 ## 2023/04
 - [2023/04/07] Generative Agents: Interactive Simulacra of Human Behavior. [[paper](https://arxiv.org/pdf/2304.03442.pdf)] [[code](https://github.com/joonspk-research/generative_agents)]
 - [2023/04/06] Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions. [[paper](https://arxiv.org/pdf/2304.02868.pdf)] [[code](https://github.com/hongyuanmei/chatgpt-play-zork/tree/main)]
@@ -103,12 +96,9 @@
 - [2023/03/08] Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models. [[paper](https://arxiv.org/pdf/2303.04671.pdf)] [[code](https://github.com/moymix/TaskMatrix)]
 - [2023/03/06] PaLM-E: An Embodied Multimodal Language Model. [[paper](https://arxiv.org/abs/2303.03378)]
 
-
 ## 2023/02
 - [2023/02/12] MarioGPT: Open-Ended Text2Level Generation through Large Language Models. [[paper](https://arxiv.org/abs/2302.05981)] [[code](https://github.com/shyamsn97/mario-gpt)]
 - [2023/02/03] Describe, Explain, Plan and Select: Interactive Planning with LLMs Enables Open-World Multi-Task Agents. [[paper](https://arxiv.org/pdf/2302.01560.pdf)] [[code](https://github.com/CraftJarvis/MC-Planner)]
-
-
 
 ## 2023/01
 - [2023/01/21] Open-World Multi-Task Control through Goal-Aware Representation Learning and Adaptive Horizon Prediction. [[paper](https://arxiv.org/abs/2301.10034)] [[code](https://github.com/CraftJarvis/MC-Controller)]
@@ -118,8 +108,6 @@
 - [2022/08/08] Social Simulacra: Creating Populated Prototypes for Social Computing Systems. [[paper](https://arxiv.org/abs/2208.04024)]
 - [2022/07/12] Inner Monologue: Embodied Reasoning through Planning with Language Models. [[paper](https://arxiv.org/abs/2207.05608)]
 - [2022/06/07] Minedojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge. [[paper](https://arxiv.org/abs/2206.08853)] [[code](https://github.com/MineDojo/MineDojo)]
-
-
 
 ## Citation
 If you find this repository useful, please cite our paper:
