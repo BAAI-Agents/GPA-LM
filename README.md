@@ -15,11 +15,17 @@
 
 <div align=center><img src="Survey_timeline.png" width="100%" /></div>
 
+## 2024
+- [Feb-24] Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study.
+- [2024/02/02] PokeLLMon: A Human-Parity Agent for Pokemon Battles with Large Language Models. [[paper](https://arxiv.org/abs/2402.01118)] [[code](https://github.com/git-disl/PokeLLMon)]
+- [2024/01/17] Searching bug instances in gameplay video repositories. [[paper](https://ieeexplore.ieee.org/document/10402100)] [[data](https://zenodo.org/records/10211390)]
+
 ## 2023/12
 - [2023/12/19] Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach. [[paper](https://arxiv.org/abs/2312.11865)]
 - [2023/12/14] Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft. [[paper](https://arxiv.org/pdf/2312.09238.pdf)]
 - [2023/12/12] MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception. [[paper](https://arxiv.org/abs/2312.07472)] [[code](https://github.com/IranQin/MP5)]
 - [2023/12/08] Apollo's Oracle: Retrieval-Augmented Reasoning in Multi-Agent Debates. [[paper](https://arxiv.org/pdf/2312.04854.pdf)] [[code](https://github.com/FutureForMe/MADRA)]
+- [2023/12/08] GlitchBench: Can large multimodal models detect video game glitches? [[paper](https://arxiv.org/abs/2312.05291)] [[code](https://github.com/GlitchBench/Benchmark)]
 - [2023/12/07] A Framework for Exploring Player Perceptions of LLM-Generated Dialogue in Commercial Video Games. [[paper](https://aclanthology.org/2023.findings-emnlp.151.pdf)] [[website](https://pl.aiwright.dev/)]
 - [2023/12/05] Creative Agents: Empowering Agents with Imagination for Creative Tasks. [[paper](https://arxiv.org/pdf/2312.02519.pdf)] [[code](https://github.com/PKU-RL/Creative-Agents)]
 - [2023/12/04] Visual Encoders for Data-Efficient Imitation Learning in Modern Video Games. [[paper](https://arxiv.org/pdf/2312.02312.pdf)]
@@ -43,6 +49,7 @@
 - [2023/10/10] Metaagents: Simulating Interactions of Human Behaviors for LLM-Based Task-Oriented Coordination via Collaborative Generative Agents. [[paper](https://arxiv.org/abs/2310.06500)]
 - [2023/10/09] Humanoid Agents: Platform for Simulating Human-like Generative Agents. [[paper](https://arxiv.org/abs/2310.05418)] [[code](https://github.com/HumanoidAgents/HumanoidAgents)]
 - [2023/10/08] AvalonBench: Evaluating LLMs Playing the Game of Avalon. [[paper](https://arxiv.org/pdf/2310.05036.pdf)] [[code](https://github.com/jonathanmli/Avalon-LLM)]
+- [2022/10/05] Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors. [[paper](https://arxiv.org/abs/2210.02506)] [[code](https://asgaardlab.github.io/LLMxBugs/)]
 - [2023/10/03] HOLMES: Towards End-to-End Embodied Decision Making with Multi-modal Large Language Model. [[paper](https://arxiv.org/pdf/2310.02071.pdf)] [[code](https://github.com/pkunlp-icler/PCA-EVAL)]
 - [2023/10/02] SmartPlay: A Benchmark for LLMs as Intelligent Agents. [[paper](https://arxiv.org/abs/2310.01557)] [[code](https://github.com/LLMsmartplay/SmartPlay)]
 - [2023/10/02] Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation. [[paper](https://arxiv.org/pdf/2310.01320.pdf)]
@@ -76,6 +83,7 @@
 - [2023/06/01] STEVE-1: A Generative Model for Text-to-Behavior in Minecraft. [[paper](https://arxiv.org/pdf/2306.00937.pdf)] [[code](https://github.com/Shalev-Lifshitz/STEVE-1)]
 
 ## 2023/05
+- [May-23] COTTAGE: Coherent Text Adventure Games Generation. [[paper](https://www.cis.upenn.edu/~ccb/publications/masters-theses/River-Yijiang-Dong-masters-thesis-2023.pdf)] [[code](https://colab.research.google.com/drive/1Gnn6sR9oHwCHenkf3JF4ZhiiDFK7_SM0#scrollTo=OrNCXsMO9Gwh)]
 - [2023/05/30] AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation. [[paper](https://arxiv.org/pdf/2305.18898.pdf)]
 - [2023/05/26]  Playing repeated games with Large Language Models. [[paper](https://arxiv.org/abs/2305.16867)]
 - [2023/05/25] Voyager: An Open-Ended Embodied Agent with Large Language Models. [[paper](https://arxiv.org/pdf/2305.16291.pdf)] [[code](https://github.com/MineDojo/Voyager)]
