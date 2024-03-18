@@ -1,14 +1,22 @@
 # A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges
 ---
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+<div align="center">
+<a href='https://arxiv.org/abs/2403.10249'><img src='https://img.shields.io/badge/arXiv-2403.10249-b31b1b.svg'></a>
+
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
 ![Stars](https://img.shields.io/github/stars/BAAI-Agents/GPA-LM)
 [![Visits Badge](https://badges.pufler.dev/visits/BAAI-Agents/GPA-LM)](https://badges.pufler.dev/visits/BAAI-Agents/GPA-LM)
 ![Forks](https://img.shields.io/github/forks/BAAI-Agents/GPA-LM)
+</div>
 
 🏃 **Coming soon**: Add one-sentence intro to each paper.
 
 <div align=center><img src="Survey_Diagram.png" width="80%" /></div>
+
+<div align="center">
+
+[[Arxiv]](https://arxiv.org/abs/2403.10249) ♦ [[PDF]](https://arxiv.org/pdf/2403.10249.pdf)
+</div>
 
 ## 🌟 News
 ✨ [2024/02/06] Creation of this repository to maintain the list of papers on LLM-based agents for game playing. More papers are coming soon!
