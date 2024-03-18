@@ -134,7 +134,7 @@ If you find this repository useful, please cite our paper:
       title={A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges}, 
       author={Xinrun Xu, Yuxin Wang, Chaoyi Xu, Ziluo Ding, Jiechuan Jiang, Zhiming Ding, Börje F. Karlsson},
       year={2024},
-      eprint={2403.XXXXX},
+      eprint={2403.10249},
       archivePrefix={arXiv},
       primaryClass={cs.AI}
 }
