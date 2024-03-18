@@ -1,25 +1,42 @@
 # A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges
 ---
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+<div align="center">
+
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
 ![Stars](https://img.shields.io/github/stars/BAAI-Agents/GPA-LM)
 [![Visits Badge](https://badges.pufler.dev/visits/BAAI-Agents/GPA-LM)](https://badges.pufler.dev/visits/BAAI-Agents/GPA-LM)
 ![Forks](https://img.shields.io/github/forks/BAAI-Agents/GPA-LM)
+<a href='https://arxiv.org/abs/2403.10249'><img src='https://img.shields.io/badge/arXiv-2403.10249-b31b1b.svg'></a>
+</div>
 
 🏃 **Coming soon**: Add one-sentence intro to each paper.
 
 <div align=center><img src="Survey_Diagram.png" width="80%" /></div>
+
+<div align="center">
+
+[[Arxiv]](https://arxiv.org/abs/2403.10249) ♦ [[PDF]](https://arxiv.org/pdf/2403.10249.pdf)
+</div>
 
 ## 🌟 News
 ✨ [2024/02/06] Creation of this repository to maintain the list of papers on LLM-based agents for game playing. More papers are coming soon!
 
 <div align=center><img src="Survey_timeline.png" width="100%" /></div>
 
+## 2024
+- [2024/03/14] Scaling Instructable Agents Across Many Simulated Worlds. [[paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/sima-generalist-ai-agent-for-3d-virtual-environments/Scaling%20Instructable%20Agents%20Across%20Many%20Simulated%20Worlds.pdf)]
+- [2024/03/05] Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study. [[paper](https://arxiv.org/abs/2403.03186)] [[project](https://baai-agents.github.io/Cradle/)]
+- [2024/02/02] PokeLLMon: A Human-Parity Agent for Pokemon Battles with Large Language Models. [[paper](https://arxiv.org/abs/2402.01118)] [[code](https://github.com/git-disl/PokeLLMon)]
+- [2024/01/17] Searching bug instances in gameplay video repositories. [[paper](https://ieeexplore.ieee.org/document/10402100)] [[data](https://zenodo.org/records/10211390)]
+
 ## 2023/12
+- [2023/12/23] LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination. [[paper](https://arxiv.org/abs/2312.15224)] [[project](https://sites.google.com/view/overcooked-hla/)]
 - [2023/12/19] Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach. [[paper](https://arxiv.org/abs/2312.11865)]
 - [2023/12/14] Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft. [[paper](https://arxiv.org/pdf/2312.09238.pdf)]
+- [2023/12/12] diff History for Long-Context Language Agents. [[paper](https://arxiv.org/abs/2312.07540)] [[project](https://diffhistory.github.io/)]
 - [2023/12/12] MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception. [[paper](https://arxiv.org/abs/2312.07472)] [[code](https://github.com/IranQin/MP5)]
 - [2023/12/08] Apollo's Oracle: Retrieval-Augmented Reasoning in Multi-Agent Debates. [[paper](https://arxiv.org/pdf/2312.04854.pdf)] [[code](https://github.com/FutureForMe/MADRA)]
+- [2023/12/08] GlitchBench: Can large multimodal models detect video game glitches? [[paper](https://arxiv.org/abs/2312.05291)] [[code](https://github.com/GlitchBench/Benchmark)]
 - [2023/12/07] A Framework for Exploring Player Perceptions of LLM-Generated Dialogue in Commercial Video Games. [[paper](https://aclanthology.org/2023.findings-emnlp.151.pdf)] [[website](https://pl.aiwright.dev/)]
 - [2023/12/05] Creative Agents: Empowering Agents with Imagination for Creative Tasks. [[paper](https://arxiv.org/pdf/2312.02519.pdf)] [[code](https://github.com/PKU-RL/Creative-Agents)]
 - [2023/12/04] Visual Encoders for Data-Efficient Imitation Learning in Modern Video Games. [[paper](https://arxiv.org/pdf/2312.02312.pdf)]
@@ -38,17 +55,22 @@
 - [2023/10/19] GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents. [[paper](https://arxiv.org/pdf/2310.12821.pdf)]
 - [2023/10/16] Character-LLM: A Trainable Agent for Role-Playing. [[paper](https://arxiv.org/pdf/2310.10158.pdf)] [[code](https://github.com/choosewhatulike/trainable-agents)]
 - [2023/10/13] LLaMA Rider: Spurring Large Language Models to Explore the Open World. [[paper](https://arxiv.org/abs/2310.08922)]
+- [2023/10/12] GameGPT: Multi-agent Collaborative Framework for Game Development. [[paper](https://arxiv.org/abs/2310.08067)]
 - [2023/10/12] Groot: Learning to Follow Instructions by Watching Gameplay Videos. [[paper](https://arxiv.org/abs/2310.08235)] [[code](https://craftjarvis-groot.github.io/)]
 - [2023/10/12] Octopus: Embodied Vision-Language Programmer from Environmental Feedback. [[paper](https://arxiv.org/abs/2310.08588)] [[code](https://github.com/dongyh20/Octopus)]
 - [2023/10/10] Metaagents: Simulating Interactions of Human Behaviors for LLM-Based Task-Oriented Coordination via Collaborative Generative Agents. [[paper](https://arxiv.org/abs/2310.06500)]
 - [2023/10/09] Humanoid Agents: Platform for Simulating Human-like Generative Agents. [[paper](https://arxiv.org/abs/2310.05418)] [[code](https://github.com/HumanoidAgents/HumanoidAgents)]
 - [2023/10/08] AvalonBench: Evaluating LLMs Playing the Game of Avalon. [[paper](https://arxiv.org/pdf/2310.05036.pdf)] [[code](https://github.com/jonathanmli/Avalon-LLM)]
+- [2022/10/05] Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors. [[paper](https://arxiv.org/abs/2210.02506)] [[code](https://asgaardlab.github.io/LLMxBugs/)]
+- [2023/10/03] Lyfe Agents: Generative agents for low-cost real-time social interactions. [[paper](https://arxiv.org/pdf/2310.02172.pdf)]
 - [2023/10/03] HOLMES: Towards End-to-End Embodied Decision Making with Multi-modal Large Language Model. [[paper](https://arxiv.org/pdf/2310.02071.pdf)] [[code](https://github.com/pkunlp-icler/PCA-EVAL)]
 - [2023/10/02] SmartPlay: A Benchmark for LLMs as Intelligent Agents. [[paper](https://arxiv.org/abs/2310.01557)] [[code](https://github.com/LLMsmartplay/SmartPlay)]
 - [2023/10/02] Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation. [[paper](https://arxiv.org/pdf/2310.01320.pdf)]
 - [2023/10/01] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models. [[paper](https://arxiv.org/abs/2310.00746)] [[code](https://github.com/InteractiveNLP-Team/RoleLLM-public)]
 
 ## 2023/09
+- [2023/09/29] Motif: Intrinsic Motivation from Artificial Intelligence Feedback. [[paper](https://arxiv.org/abs/2310.00166)] [[code](https://github.com/facebookresearch/motif)]
+- [2023/09/29] LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games. [[paper](https://arxiv.org/abs/2309.17234)] [[code](https://github.com/S-Abdelnabi/LLM-Deliberation)]
 - [2023/09/29] Suspision-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4. [[paper](https://arxiv.org/pdf/2309.17277.pdf)] [[code](https://github.com/CR-Gjx/Suspicion-Agent)]
 - [2023/09/29] Autoagents: A Framework for Automatic Agent Generation. [[paper](https://arxiv.org/pdf/2309.17288.pdf)] [[code](https://github.com/Link-AGI/AutoAgents)]
 - [2023/09/21] True Knowledge Comes from Practice: Aligning Large Language Models with Embodied Environments via Reinforcement Learning. [[paper](https://arxiv.org/pdf/2401.14151.pdf)] [[code](https://github.com/WeihaoTan/TWOSOME)]
@@ -66,6 +88,7 @@
 
  ## 2023/07
 - [2023/07/24] Tachikuma: Understanding Complex Interactions with Multi-Character and Novel Objects by large Language Models. [[paper](https://arxiv.org/pdf/2307.12573.pdf)]
+- [2023/07/21] Selective Perception: Optimizing State Descriptions with Reinforcement Learning for Language Model Actors. [[paper](https://arxiv.org/abs/2307.11922)] [[project](https://kolbytn.github.io/blinder/)]
 - [2023/07/12] Sayplan: Grounding Large Language models using 3D Scene Graphs for Scalable Task Planning. [[paper](https://arxiv.org/abs/2307.06135)]
 - [2023/07/05] Building Cooperative Embodied Agents Modularly with Large Language Models. [[paper](https://arxiv.org/pdf/2307.02485.pdf)] [[code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/)]
 - [2023/07/04] TaPA: Embodied Task Planning with Large Language Models. [[paper](https://arxiv.org/pdf/2307.01848.pdf)] [[code](https://github.com/Gary3410/TaPA)]
@@ -76,6 +99,7 @@
 - [2023/06/01] STEVE-1: A Generative Model for Text-to-Behavior in Minecraft. [[paper](https://arxiv.org/pdf/2306.00937.pdf)] [[code](https://github.com/Shalev-Lifshitz/STEVE-1)]
 
 ## 2023/05
+- [May-23] COTTAGE: Coherent Text Adventure Games Generation. [[paper](https://www.cis.upenn.edu/~ccb/publications/masters-theses/River-Yijiang-Dong-masters-thesis-2023.pdf)] [[code](https://colab.research.google.com/drive/1Gnn6sR9oHwCHenkf3JF4ZhiiDFK7_SM0#scrollTo=OrNCXsMO9Gwh)]
 - [2023/05/30] AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation. [[paper](https://arxiv.org/pdf/2305.18898.pdf)]
 - [2023/05/26]  Playing repeated games with Large Language Models. [[paper](https://arxiv.org/abs/2305.16867)]
 - [2023/05/25] Voyager: An Open-Ended Embodied Agent with Large Language Models. [[paper](https://arxiv.org/pdf/2305.16291.pdf)] [[code](https://github.com/MineDojo/Voyager)]
@@ -89,6 +113,7 @@
 ## 2023/04
 - [2023/04/07] Generative Agents: Interactive Simulacra of Human Behavior. [[paper](https://arxiv.org/pdf/2304.03442.pdf)] [[code](https://github.com/joonspk-research/generative_agents)]
 - [2023/04/06] Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions. [[paper](https://arxiv.org/pdf/2304.02868.pdf)] [[code](https://github.com/hongyuanmei/chatgpt-play-zork/tree/main)]
+- [Apr-23] Personalized Quest and Dialogue Generation in Role-Playing Games: A Knowledge Graph- and Language Model-based Approach. [[paper](https://dl.acm.org/doi/10.1145/3544548.3581441)] [[code](https://github.com/DRAGNLabs/DRAGN-Town-Quests)]
 
 ## 2023/03
 - [2023/03/31] CAMEL: Communicative Agents for ''Mind'' Exploration of Large Language Model Society. [[paper](https://arxiv.org/pdf/2303.17760.pdf)] [[code](https://github.com/camel-ai/camel)]
@@ -113,11 +138,11 @@
 If you find this repository useful, please cite our paper:
 
 ```
-@misc{xi2023rise,
+@misc{xu2024survey,
       title={A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges}, 
       author={Xinrun Xu, Yuxin Wang, Chaoyi Xu, Ziluo Ding, Jiechuan Jiang, Zhiming Ding, Börje F. Karlsson},
       year={2024},
-      eprint={2402.XXXXX},
+      eprint={2403.10249},
       archivePrefix={arXiv},
       primaryClass={cs.AI}
 }
