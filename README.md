@@ -1,11 +1,12 @@
 # A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges
 ---
 <div align="center">
-<a href='https://arxiv.org/abs/2403.10249'><img src='https://img.shields.io/badge/arXiv-2403.10249-b31b1b.svg'></a>
+
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
 ![Stars](https://img.shields.io/github/stars/BAAI-Agents/GPA-LM)
 [![Visits Badge](https://badges.pufler.dev/visits/BAAI-Agents/GPA-LM)](https://badges.pufler.dev/visits/BAAI-Agents/GPA-LM)
 ![Forks](https://img.shields.io/github/forks/BAAI-Agents/GPA-LM)
+<a href='https://arxiv.org/abs/2403.10249'><img src='https://img.shields.io/badge/arXiv-2403.10249-b31b1b.svg'></a>
 </div>
 
 🏃 **Coming soon**: Add one-sentence intro to each paper.
