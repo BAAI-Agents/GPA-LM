@@ -21,12 +21,13 @@
 ## 🌟 News
 ✨ [2024/02/06] Creation of this repository to maintain the list of papers on LLM-based agents for game playing. More papers are coming soon!
 
-<div align=center><img src="Survey_timeline.png" width="100%" /></div>
+<div align=center><img src="Survey_Timeline.png" width="100%" /></div>
 
 ## 2024
 - [2024/03/14] Scaling Instructable Agents Across Many Simulated Worlds. [[paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/sima-generalist-ai-agent-for-3d-virtual-environments/Scaling%20Instructable%20Agents%20Across%20Many%20Simulated%20Worlds.pdf)]
 - [2024/03/05] Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study. [[paper](https://arxiv.org/abs/2403.03186)] [[project](https://baai-agents.github.io/Cradle/)]
 - [2024/02/02] PokeLLMon: A Human-Parity Agent for Pokemon Battles with Large Language Models. [[paper](https://arxiv.org/abs/2402.01118)] [[code](https://github.com/git-disl/PokeLLMon)]
+- [2024/01/19] CivRealm: A Learning and Reasoning Odyssey in Civilization for Decision-Making Agents. [[Paper](https://arxiv.org/abs/2401.10568)][[Code](https://github.com/bigai-ai/civrealm)]
 - [2024/01/17] Searching bug instances in gameplay video repositories. [[paper](https://ieeexplore.ieee.org/document/10402100)] [[data](https://zenodo.org/records/10211390)]
 
 ## 2023/12
@@ -94,7 +95,6 @@
 - [2023/07/04] TaPA: Embodied Task Planning with Large Language Models. [[paper](https://arxiv.org/pdf/2307.01848.pdf)] [[code](https://github.com/Gary3410/TaPA)]
 
 ## 2023/06
-- [2023/06/23] Video pretraining (VPT): Learning to Act by Watching Unlabeled Online Videos. [[paper](https://arxiv.org/pdf/2206.11795.pdf)]
 - [2023/06/20] SPRINT: Scalable Policy Pre-Training via Language Instruction Relabeling. [[paper](https://arxiv.org/abs/2306.11886)] [[code](https://github.com/clvrai/sprint)]
 - [2023/06/01] STEVE-1: A Generative Model for Text-to-Behavior in Minecraft. [[paper](https://arxiv.org/pdf/2306.00937.pdf)] [[code](https://github.com/Shalev-Lifshitz/STEVE-1)]
 
@@ -126,12 +126,14 @@
 - [2023/02/03] Describe, Explain, Plan and Select: Interactive Planning with LLMs Enables Open-World Multi-Task Agents. [[paper](https://arxiv.org/pdf/2302.01560.pdf)] [[code](https://github.com/CraftJarvis/MC-Planner)]
 
 ## 2023/01
+- [2023/01/28] Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling. [[paper](https://arxiv.org/abs/2301.12050)]
 - [2023/01/21] Open-World Multi-Task Control through Goal-Aware Representation Learning and Adaptive Horizon Prediction. [[paper](https://arxiv.org/abs/2301.10034)] [[code](https://github.com/CraftJarvis/MC-Controller)]
 
 ## 2022
 - [2022/11/21] Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models. [[paper](https://arxiv.org/abs/2211.11736)]
 - [2022/08/08] Social Simulacra: Creating Populated Prototypes for Social Computing Systems. [[paper](https://arxiv.org/abs/2208.04024)]
 - [2022/07/12] Inner Monologue: Embodied Reasoning through Planning with Language Models. [[paper](https://arxiv.org/abs/2207.05608)]
+- [2023/06/23] Video pretraining (VPT): Learning to Act by Watching Unlabeled Online Videos. [[paper](https://arxiv.org/pdf/2206.11795.pdf)]
 - [2022/06/07] Minedojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge. [[paper](https://arxiv.org/abs/2206.08853)] [[code](https://github.com/MineDojo/MineDojo)]
 
 ## Citation
