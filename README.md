@@ -21,7 +21,7 @@
 ## 🌟 News
 ✨ [2024/02/06] Creation of this repository to maintain the list of papers on LLM-based agents for game playing. More papers are coming soon!
 
-<div align=center><img src="Survey_Timeline.png" width="100%" /></div>
+<div align=center><img src="Timeline.png" width="100%" /></div>
 
 ## 2024
 - [2024/03/14] Scaling Instructable Agents Across Many Simulated Worlds. [[paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/sima-generalist-ai-agent-for-3d-virtual-environments/Scaling%20Instructable%20Agents%20Across%20Many%20Simulated%20Worlds.pdf)]
