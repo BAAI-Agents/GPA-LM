@@ -21,7 +21,7 @@
 ## 🌟 News
 ✨ [2024/02/06] Creation of this repository to maintain the list of papers on LLM-based agents for game playing. More papers are coming soon!
 
-<div align=center><img src="Survey_Timeline.png" width="100%" /></div>
+<div align=center><img src="BAAI_Survey_timeline.png" width="100%" /></div>
 
 ## 2024
 - [2024/03/14] Scaling Instructable Agents Across Many Simulated Worlds. [[paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/sima-generalist-ai-agent-for-3d-virtual-environments/Scaling%20Instructable%20Agents%20Across%20Many%20Simulated%20Worlds.pdf)]
@@ -34,7 +34,6 @@
 - [2023/12/23] LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination. [[paper](https://arxiv.org/abs/2312.15224)] [[project](https://sites.google.com/view/overcooked-hla/)]
 - [2023/12/19] Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach. [[paper](https://arxiv.org/abs/2312.11865)]
 - [2023/12/14] Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft. [[paper](https://arxiv.org/pdf/2312.09238.pdf)]
-- [2023/12/12] diff History for Long-Context Language Agents. [[paper](https://arxiv.org/abs/2312.07540)] [[project](https://diffhistory.github.io/)]
 - [2023/12/12] MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception. [[paper](https://arxiv.org/abs/2312.07472)] [[code](https://github.com/IranQin/MP5)]
 - [2023/12/08] Apollo's Oracle: Retrieval-Augmented Reasoning in Multi-Agent Debates. [[paper](https://arxiv.org/pdf/2312.04854.pdf)] [[code](https://github.com/FutureForMe/MADRA)]
 - [2023/12/08] GlitchBench: Can large multimodal models detect video game glitches? [[paper](https://arxiv.org/abs/2312.05291)] [[code](https://github.com/GlitchBench/Benchmark)]
@@ -51,9 +50,8 @@
 
 ## 2023/10
 - [2023/10/29] Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game. [[paper](https://arxiv.org/abs/2310.18940)]
-- [2023/10/23] Yihuai Lan: LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay. [[paper](https://arxiv.org/abs/2310.14985)]
+- [2023/10/23] LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay. [[paper](https://arxiv.org/abs/2310.14985)]
 - [2023/10/20] Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds. [[paper](https://arxiv.org/pdf/2310.13255.pdf)] [[code](https://github.com/BAAI-Agents/Steve-Eye)]
-- [2023/10/19] GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents. [[paper](https://arxiv.org/pdf/2310.12821.pdf)]
 - [2023/10/16] Character-LLM: A Trainable Agent for Role-Playing. [[paper](https://arxiv.org/pdf/2310.10158.pdf)] [[code](https://github.com/choosewhatulike/trainable-agents)]
 - [2023/10/13] LLaMA Rider: Spurring Large Language Models to Explore the Open World. [[paper](https://arxiv.org/abs/2310.08922)]
 - [2023/10/12] GameGPT: Multi-agent Collaborative Framework for Game Development. [[paper](https://arxiv.org/abs/2310.08067)]
@@ -62,9 +60,9 @@
 - [2023/10/10] Metaagents: Simulating Interactions of Human Behaviors for LLM-Based Task-Oriented Coordination via Collaborative Generative Agents. [[paper](https://arxiv.org/abs/2310.06500)]
 - [2023/10/09] Humanoid Agents: Platform for Simulating Human-like Generative Agents. [[paper](https://arxiv.org/abs/2310.05418)] [[code](https://github.com/HumanoidAgents/HumanoidAgents)]
 - [2023/10/08] AvalonBench: Evaluating LLMs Playing the Game of Avalon. [[paper](https://arxiv.org/pdf/2310.05036.pdf)] [[code](https://github.com/jonathanmli/Avalon-LLM)]
-- [2022/10/05] Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors. [[paper](https://arxiv.org/abs/2210.02506)] [[code](https://asgaardlab.github.io/LLMxBugs/)]
+- [2023/10/03] Evaluating Multi-Agent Coordination Abilities in Large Language Models [[paper](https://arxiv.org/pdf/2310.02071.pdf)] [[code](https://github.com/pkunlp-icler/PCA-EVAL)]
 - [2023/10/03] Lyfe Agents: Generative agents for low-cost real-time social interactions. [[paper](https://arxiv.org/pdf/2310.02172.pdf)]
-- [2023/10/03] HOLMES: Towards End-to-End Embodied Decision Making with Multi-modal Large Language Model. [[paper](https://arxiv.org/pdf/2310.02071.pdf)] [[code](https://github.com/pkunlp-icler/PCA-EVAL)]
+- [2023/10/03] Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond. [[paper](https://arxiv.org/pdf/2310.02071.pdf)] [[code](https://github.com/pkunlp-icler/PCA-EVAL)]
 - [2023/10/02] SmartPlay: A Benchmark for LLMs as Intelligent Agents. [[paper](https://arxiv.org/abs/2310.01557)] [[code](https://github.com/LLMsmartplay/SmartPlay)]
 - [2023/10/02] Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation. [[paper](https://arxiv.org/pdf/2310.01320.pdf)]
 - [2023/10/01] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models. [[paper](https://arxiv.org/abs/2310.00746)] [[code](https://github.com/InteractiveNLP-Team/RoleLLM-public)]
@@ -118,7 +116,6 @@
 ## 2023/03
 - [2023/03/31] CAMEL: Communicative Agents for ''Mind'' Exploration of Large Language Model Society. [[paper](https://arxiv.org/pdf/2303.17760.pdf)] [[code](https://github.com/camel-ai/camel)]
 - [2023/03/29] Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks. [[paper](https://arxiv.org/abs/2303.16563)] [[code](https://github.com/PKU-RL/Plan4MC)]
-- [2023/03/08] Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models. [[paper](https://arxiv.org/pdf/2303.04671.pdf)] [[code](https://github.com/moymix/TaskMatrix)]
 - [2023/03/06] PaLM-E: An Embodied Multimodal Language Model. [[paper](https://arxiv.org/abs/2303.03378)]
 
 ## 2023/02
@@ -131,6 +128,7 @@
 
 ## 2022
 - [2022/11/21] Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models. [[paper](https://arxiv.org/abs/2211.11736)]
+- [2022/10/05] Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors. [[paper](https://arxiv.org/abs/2210.02506)] [[code](https://asgaardlab.github.io/LLMxBugs/)]
 - [2022/08/08] Social Simulacra: Creating Populated Prototypes for Social Computing Systems. [[paper](https://arxiv.org/abs/2208.04024)]
 - [2022/07/12] Inner Monologue: Embodied Reasoning through Planning with Language Models. [[paper](https://arxiv.org/abs/2207.05608)]
 - [2023/06/23] Video pretraining (VPT): Learning to Act by Watching Unlabeled Online Videos. [[paper](https://arxiv.org/pdf/2206.11795.pdf)]
