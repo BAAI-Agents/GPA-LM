@@ -3,8 +3,9 @@
 <div align="center">
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-![Stars](https://img.shields.io/github/stars/BAAI-Agents/GPA-LM)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Visits Badge](https://badges.pufler.dev/visits/BAAI-Agents/GPA-LM)](https://badges.pufler.dev/visits/BAAI-Agents/GPA-LM)
+![Stars](https://img.shields.io/github/stars/BAAI-Agents/GPA-LM)
 ![Forks](https://img.shields.io/github/forks/BAAI-Agents/GPA-LM)
 <a href='https://arxiv.org/abs/2403.10249'><img src='https://img.shields.io/badge/arXiv-2403.10249-b31b1b.svg'></a>
 </div>
@@ -29,6 +30,7 @@
 ## 2024/07
 - [2024/07/21] VideoGameBunny: Towards vision assistants for video games. [[paper](https://arxiv.org/abs/2407.15295)] [[code](https://videogamebunny.github.io/)]
 - [2024/07/05] Autoverse: An Evolvable Game Language for Learning Robust Embodied Agents. [[paper](https://arxiv.org/abs/2407.04221)]
+- [2024/07/02] Cradle: Empowering Foundation Agents Towards General Computer Control. [[paper](https://arxiv.org/abs/2403.03186)] [[project](https://baai-agents.github.io/Cradle/)]
 
 ## 2024/06
 - [2024/06/20] Two Giraffes in a Dirt Field: Using Game Play to Investigate Situation Modelling in Large Multimodal Models. [[paper](https://arxiv.org/abs/2406.14035)]
@@ -51,7 +53,7 @@
 - [2024/03/13] Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation. [[paper](https://arxiv.org/abs/2403.08282.pdf)]
 - [2024/03/13] SOTOPIA-$\pi$: Interactive Learning of Socially Intelligent Language Agents. [[paper](https://arxiv.org/pdf/2403.08715.pdf)] [[code](https://github.com/sotopia-lab/sotopia-pi)]
 - [2024/03/08] Will GPT-4 Run DOOM? [[paper](https://arxiv.org/abs/2403.05468.pdf)] [[code](https://github.com/adewynter/Doom)]
-- [2024/03/05] Cradle: Empowering Foundation Agents Towards General Computer Control. [[paper](https://arxiv.org/abs/2403.03186)] [[project](https://baai-agents.github.io/Cradle/)]
+- [2024/03/05] Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study. [[paper](https://tellarin.com/borje/papers/baaitr24gcc.pdf)] [[project](https://baai-agents.github.io/Cradle/)]
 - [2024/03/01] Playing NetHack with LLMs: Potential & Limitations as Zero-Shot Agents. [[paper](https://arxiv.org/pdf/2403.00690.pdf)] [[code](https://arxiv.org/pdf/2403.00690.pdf)]
 
 ## 2024/02
