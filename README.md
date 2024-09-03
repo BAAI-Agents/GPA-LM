@@ -45,7 +45,7 @@
 
 ## 2024/03
 - [2024/03/23] Evaluate LLMs in real time with Street Fighter III. [[code](https://github.com/OpenGenerativeAI/llm-colosseum)]
-- [2024/03/19] Embodied LLM Agents Learn to Cooperate in Organized Teams. [[paper](https://arxiv.org/pdf/2403.12482.pdf)]
+- [2024/03/19] Embodied LLM Agents Learn to Cooperate in Organized Teams. [[paper](https://arxiv.org/pdf/2403.12482.pdf)] [[code](https://github.com/tobeatraceur/Organized-LLM-Agents)]
 - [2024/03/18] Can LLM-Augmented Autonomous Agents Cooperate?, An Evaluation of Their Cooperative Capabilities through Melting Pot. [[paper](https://arxiv.org/pdf/2403.11381.pdf)]
 - [2024/03/18] EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents. [[paper](https://arxiv.org/pdf/2403.12014.pdf)]
 - [2024/03/18] MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control. [[paper](https://arxiv.org/pdf/2403.12037.pdf)] [[code](https://github.com/Zhoues/MineDreamer)]
